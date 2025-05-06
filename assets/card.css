@@ -9,6 +9,15 @@ body .bottom_bar{
     margin-bottom: auto;
 }
 
+#rzecz {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+}
+#rzecz p{
+    margin-left: 4px;
+}
+
 .action_grid{
     cursor: pointer;
     margin-left: 10px;
